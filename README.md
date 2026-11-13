@@ -1,7 +1,5 @@
 # Materias vistas con Mahecha — Portal Académico
 
-Sitio web académico estático desarrollado en **HTML5** y **CSS3** para organizar y presentar los contenidos de las asignaturas **Líneas de Énfasis 3** y **Auditoría de Sistemas**.
-
 ## 📂 Estructura del Proyecto
 
 ```text
@@ -21,10 +19,3 @@ Sitio web académico estático desarrollado en **HTML5** y **CSS3** para organiz
     ├── casos-practicos.html          # Casos prácticos
     └── proyecto.html                 # Proyecto / Video tutorial
 ```
-
-## 🚀 Cómo publicar en GitHub Pages
-
-1. Sube todos los archivos y carpetas de este proyecto a tu repositorio en [GitHub](https://github.com/).
-2. En tu repositorio de GitHub, ve a **Settings** → **Pages**.
-3. En **Build and deployment** → **Branch**, selecciona `main` (o `master`) y la carpeta `/ (root)`, luego haz clic en **Save**.
-4. Tu página quedará publicada automáticamente tomando `index.html` como página principal.
